@@ -1,3 +1,3 @@
 # covid-19
-Preview:
+Demo:
 https://ayaadel.github.io/covid-19/
