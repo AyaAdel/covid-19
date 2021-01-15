@@ -1,0 +1,25 @@
+{
+  "name": "covid-19",
+  "version": "1.0.0",
+  "description": "covid-19 website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyaAdel/covid-19.git"
+  },
+  "keywords": [
+    "covid-19"
+  ],
+  "author": "Aya Adel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyaAdel/covid-19/issues"
+  },
+  "homepage": "https://github.com/AyaAdel/covid-19#readme",
+  "dependencies": {
+    "ghpages": "0.0.10"
+  }
+}
